@@ -4,6 +4,7 @@ public class First {
 
         System.out.println("Строка 1");
         System.out.println("Строка 2\nСтрока 3\tСтрока 4");
+        System.out.println("Строка 5");
     }
 
 
